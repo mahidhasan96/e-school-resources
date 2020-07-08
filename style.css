@@ -1,16 +1,16 @@
 
 #bg-color{
-    background-color: #969e97;
+    background-color: #badc58;
 }
 .bg-light{
-    background-color: #969e97 !important;
+    background-color: #badc58 !important;
 }
 
  
 
 #top-section {
     padding: 100px;
-    background-color: #969e97;
+    background-color: #badc58;
 }
 
 #top-section p{
@@ -24,7 +24,7 @@
 #top-section span{
     color: black;
 }
-##top-section h5{
+#top-section h5{
     color: gray;
 
 }
@@ -41,7 +41,7 @@
 }
 .card{
  border: none;
- background-color: #969e97;
+ background-color: #badc58;
  padding-top: 25px;
  border-radius: 5px;
 
@@ -49,7 +49,7 @@
 .card img{
     width: 30%;
 }
-#learn-anithing{
+#Books{
     margin-top: 50px;
     height: 300px;
 }
@@ -81,13 +81,47 @@
 }
 
 
-#Courses{
+#Blogs{
     margin-top: 0px;
     margin-bottom: 100px;
 }
 #Testimonial{
     margin-top: 100px;
     margin-bottom: 100px;
+}
+
+.animation{
+    margin: 100px 0px;
+    width: 55%;
+    height: 250px;
+    background-color: green;
+    position: relative;
+}
+
+.ball{
+    position: absolute;
+    top: 24%;
+    left: 10%;
+    width: 135px;
+    height: 135px;
+    background-color: red;
+    border-radius: 50%;
+}
+.bar{
+    height: 500px;
+    width: 10px;
+    background-color: black;
+}
+.form input{
+    width: 100%;
+    border: 0px;
+    border: 1px solid gray;
+    padding: 4px 10px;
+    margin: 7px 0px;
+    border-radius: 6px;
+}
+input:focus{
+     color: rebeccapurple;
 }
 footer{
     padding-top: 100px;
@@ -111,3 +145,4 @@ footer h3{
     font-size: 13px;
     padding: 50px 0px;
 }
+
