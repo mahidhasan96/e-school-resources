@@ -1,0 +1,113 @@
+
+#bg-color{
+    background-color: #969e97;
+}
+.bg-light{
+    background-color: #969e97 !important;
+}
+
+ 
+
+#top-section {
+    padding: 100px;
+    background-color: #969e97;
+}
+
+#top-section p{
+    color: red;
+}
+#top-section h1{
+    color: #10ea2d;
+    font-family: tahoma;
+    font-weight: 700;
+}
+#top-section span{
+    color: black;
+}
+##top-section h5{
+    color: gray;
+
+}
+#top-section button{
+    border: none;
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    font-size: 12px;
+}
+#top-section img{
+    width: 100%;
+}
+.card{
+ border: none;
+ background-color: #969e97;
+ padding-top: 25px;
+ border-radius: 5px;
+
+}
+.card img{
+    width: 30%;
+}
+#learn-anithing{
+    margin-top: 50px;
+    height: 300px;
+}
+
+#students{
+    background-color: white;
+    box-shadow: 5px 5px 20px #888888;
+}
+
+
+#online-courses img{
+   width: 90%;
+   padding-left: 20px;
+}
+.btn{
+    border: none;
+    background-color: green;
+    border-radius: 20px;
+}
+
+
+.font-icon{
+    margin-top: 14px;
+}
+.font-icon p{
+    float: left;
+    font-size: 17px;
+    padding: 10px 15px;
+}
+
+
+#Courses{
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+#Testimonial{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+footer{
+    padding-top: 100px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+footer p{
+    font-size: 14px;
+    color: white;
+}
+footer h3{
+    color: whitesmoke;
+}
+
+
+
+.copyright h5{
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    padding: 50px 0px;
+}
