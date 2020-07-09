@@ -1,16 +1,17 @@
 
 #bg-color{
-    background-color: #badc58;
+    background-color: #F1FFF0;
 }
 .bg-light{
-    background-color: #badc58 !important;
+    background-color:#F1FFF0!important;
 }
 
  
 
 #top-section {
     padding: 100px;
-    background-color: #badc58;
+    background-color: #F1FFF0;
+    height: 500px;
 }
 
 #top-section p{
@@ -41,7 +42,7 @@
 }
 .card{
  border: none;
- background-color: #badc58;
+ background-color:#F1FFF0;
  padding-top: 25px;
  border-radius: 5px;
 
@@ -57,8 +58,12 @@
 #students{
     background-color: white;
     box-shadow: 5px 5px 20px #888888;
+    transition: 0.3s;
 }
-
+#students:hover{
+    box-shadow: 5px 5px #F1FFF0;
+    background-color: #F1FFF0;
+}
 
 #online-courses img{
    width: 90%;
